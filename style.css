@@ -75,7 +75,7 @@ nav a{
 }
 .quiz{
     height: 350px;
-    background-color: rgb(78, 78, 78);
+    background-color: #3b3a3a;
 }
 .quiz h1{
     color: white;
@@ -89,13 +89,14 @@ nav a{
     text-align: center;
     padding-top: 20px;
 }
+/* Add hover animation to quiz button */
 .quiz a{
     display: block;
     width: 150px;
     margin: 55px auto;
     padding: 10px;
     background-color: white;
-    color: black;
+    color: #3b3a3a;
     text-align: center;
     text-decoration: none;
     font-size: 18px;
