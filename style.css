@@ -26,22 +26,24 @@ header img{
 }
 header h1{
     color: white;
-    font-size: 50px;
+    font-size: 45px;
     position: relative;
     z-index: 2;
     text-align: right;
     margin-top: 270px;
     margin-right: 10px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-family: 'Chelsea Market', Arial, sans-serif;
 }
 header h2{
     color: white;
-    font-size: 30px;
+    font-size: 25px;
     position: relative;
     z-index: 2;
     text-align: right;
     margin-right: 10px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-family: 'Chelsea Market', Arial, sans-serif;
 }
 nav{
     background-color: rgb(195, 24, 24);
